@@ -1,0 +1,52 @@
+h2,
+h3 {
+	text-align: center;
+}
+.border {
+	border-radius: 2%;
+}
+
+/* Header */
+header div h5 {
+	text-align: center;
+	font-family: Avantgarde;
+}
+h1 {
+	text-align: center;
+	font-family: Avantgarde;
+}
+
+h1 {
+	font-size: 60px;
+}
+header img {
+	width: 20%;
+	margin: auto;
+}
+
+/* ARTICLES*/
+article {
+	padding: 12px;
+	margin-top: 12px;
+}
+
+/* ASIDE*/
+aside {
+	padding: 12px;
+	margin-top: 12px;
+}
+
+form img {
+	margin: auto;
+	width: 50%;
+}
+
+/* FOOTER */
+footer p {
+	margin: 0;
+	text-align: center;
+}
+footer {
+	margin: 20px;
+	padding: 12px;
+}
